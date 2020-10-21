@@ -1,0 +1,29 @@
+{
+  "name": "unicode-extension",
+  "version": "2.0.0",
+  "description": "JavaScript Unicode Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casto129/Unicode-Extension.git"
+  },
+  "keywords": [
+    "unicode",
+    "npm",
+    "nodejs"
+  ],
+  "author": "ento32940",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/casto129/Unicode-Extension/issues"
+  },
+  "homepage": "https://dragonballf.github.io",
+  "devDependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1"
+  }
+}
